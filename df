@@ -1,0 +1,24 @@
+[33mcommit dbbf7e08dab1b2f3728456b496b1133e9b092049[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 5b314df dde935a
+Author: skyjkyyy <skyjkyyy@gmail.com>
+Date:   Sat Apr 27 12:53:07 2024 +0900
+
+    Merge branch 'main' of https://github.com/kangyeongjoo/an_ai_ex
+
+[33mcommit 5b314df568375aa42783fe7ce72ef1ddc45c6473[m
+Author: skyjkyyy <skyjkyyy@gmail.com>
+Date:   Sat Apr 27 12:44:25 2024 +0900
+
+    AI template 수정하여 commit
+
+[33mcommit dde935a2c746180028ba748116735908498b115d[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: kangyeongjoo <166468190+kangyeongjoo@users.noreply.github.com>
+Date:   Wed Apr 24 16:42:16 2024 +0900
+
+    Update README.md
+
+[33mcommit 96f51591e2f45b20c9b47abdce9d802f4da18cb1[m
+Author: skyjkyyy <skyjkyyy@gmail.com>
+Date:   Wed Apr 24 16:37:24 2024 +0900
+
+    안철수 AI 챗봇 프로그램 소스코드 commit
